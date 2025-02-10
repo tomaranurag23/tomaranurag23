@@ -1,3 +1,6 @@
+Hey! 👋 
+Anurag This Side
+
 # 💫 About Me:
 🚀 Working on: AI, full-stack development, fintech fraud detection.<br>🤝 Collaborating on: AI, backend, automation, innovative projects.<br>🧑‍💻 Need help with: AI/ML, cloud computing, scalability.<br>📚 Learning: Advanced AI, cloud backend, cybersecurity.<br>💡 Ask me about: AI, coding, hackathons, problem-solving.<br>🎯 Fun fact: Love simplifying AI; taught at an NGO!
 
